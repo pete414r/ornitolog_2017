@@ -1,0 +1,9 @@
+/*Style.css - til dine custom styles*/
+
+header, .row, .card{
+    margin-bottom: 2em;
+}
+
+h1{
+    font-size: calc(1.5em + 1vw);
+}

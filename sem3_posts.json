@@ -1,0 +1,230 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'prfrankild_dk'
+// prfrankild_dk.sem3_posts
+
+[{"ID": 1,"post_author": 1,"post_date": "2017-11-01 19:46:56","post_date_gmt": "2017-11-01 18:46:56","post_content": "Velkommen til WordPress. Dette er dit første indlæg. Rediger eller slet det og begynd derefter at skrive!","post_title": "Hej verden!","post_excerpt": "","post_status": "publish","comment_status": "open","ping_status": "open","post_password": "","post_name": "hej-verden","to_ping": "","pinged": "","post_modified": "2017-11-01 19:46:56","post_modified_gmt": "2017-11-01 18:46:56","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=1","menu_order": 0,"post_type": "post","post_mime_type": "","comment_count": 1}, {"ID": 2,"post_author": 1,"post_date": "2017-11-01 19:46:56","post_date_gmt": "2017-11-01 18:46:56","post_content": "Dette er en eksempelside. Den er forskellig fra et blogindlæg, fordi den vil forblive det samme sted og være en del af dit websteds navigation (i de fleste temaer). De fleste vil lægge ud med en Om-side, der præsenterer dem til potentielle besøgende. Ordlyden kunne være noget i retning af:
+
+<blockquote>Hejsa! Jeg er cykelbud om dagen, prøver at blive skuespiller om aftenen og dette er min blog. Jeg bor i København, har en dejlig hund, der hedder King, og jeg kan lide Mojitos. (og at blive overrasket af regnvejr.)</blockquote>
+
+... eller noget i retning af:
+
+<blockquote>XYZ Dingenot fabrikken blev grundlagt i 1971 og har leveret kvalitetsdingenoter til offentligheden lige siden. Beliggende i Andeby, har 2.000 ansatte og bidrager med alverdens seje tiltag i lokalområdet.</blockquote>
+
+Som ny WordPress bruger, bør du gå til <a href=\"http://prfrankild.dk/sem3/wordpress/wp-admin/\">dit kontrolpanel</a> for at slette denne side og oprette nye sider til dit indhold. God fornøjelse!","post_title": "Eksempelside","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "open","post_password": "","post_name": "eksempel-side","to_ping": "","pinged": "","post_modified": "2017-11-01 19:46:56","post_modified_gmt": "2017-11-01 18:46:56","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?page_id=2","menu_order": 0,"post_type": "page","post_mime_type": "","comment_count": 0}, {"ID": 3,"post_author": 1,"post_date": "2017-11-01 19:47:21","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Automatisk kladde","post_excerpt": "","post_status": "auto-draft","comment_status": "open","ping_status": "open","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-01 19:47:21","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=3","menu_order": 0,"post_type": "post","post_mime_type": "","comment_count": 0}, {"ID": 4,"post_author": 1,"post_date": "2017-11-02 19:21:22","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Automatisk kladde","post_excerpt": "","post_status": "auto-draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 19:21:22","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=acf&p=4","menu_order": 0,"post_type": "acf","post_mime_type": "","comment_count": 0}, {"ID": 5,"post_author": 1,"post_date": "2017-11-02 19:40:01","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Automatisk kladde","post_excerpt": "","post_status": "auto-draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 19:40:01","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=acf&p=5","menu_order": 0,"post_type": "acf","post_mime_type": "","comment_count": 0}, {"ID": 6,"post_author": 1,"post_date": "2017-11-02 19:49:03","post_date_gmt": "2017-11-02 18:49:03","post_content": "","post_title": "Observation","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "acf_observation","to_ping": "","pinged": "","post_modified": "2017-11-02 22:30:17","post_modified_gmt": "2017-11-02 21:30:17","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=acf&#038;p=6","menu_order": 0,"post_type": "acf","post_mime_type": "","comment_count": 0}, {"ID": 7,"post_author": 1,"post_date": "2017-11-02 20:04:26","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Forside","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 20:04:26","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=7","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 8,"post_author": 1,"post_date": "2017-11-02 20:04:26","post_date_gmt": "0000-00-00 00:00:00","post_content": " ","post_title": "","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 20:04:26","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=8","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 9,"post_author": 1,"post_date": "2017-11-02 20:04:46","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Forside","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 20:04:46","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=9","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 10,"post_author": 1,"post_date": "2017-11-02 20:04:46","post_date_gmt": "0000-00-00 00:00:00","post_content": " ","post_title": "","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 20:04:46","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=10","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 11,"post_author": 1,"post_date": "2017-11-02 20:04:50","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Forside","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 20:04:50","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=11","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 12,"post_author": 1,"post_date": "2017-11-02 20:04:50","post_date_gmt": "0000-00-00 00:00:00","post_content": " ","post_title": "","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 20:04:50","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=12","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 13,"post_author": 1,"post_date": "2017-11-02 21:21:54","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Automatisk kladde","post_excerpt": "","post_status": "auto-draft","comment_status": "open","ping_status": "open","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 21:21:54","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=13","menu_order": 0,"post_type": "post","post_mime_type": "","comment_count": 0}, {"ID": 14,"post_author": 1,"post_date": "2017-11-02 21:23:32","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Automatisk kladde","post_excerpt": "","post_status": "auto-draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 21:23:32","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?page_id=14","menu_order": 0,"post_type": "page","post_mime_type": "","comment_count": 0}, {"ID": 15,"post_author": 1,"post_date": "2017-11-02 22:25:16","post_date_gmt": "2017-11-02 21:25:16","post_content": "","post_title": "Dato","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "acf_dato","to_ping": "","pinged": "","post_modified": "2017-11-02 22:34:44","post_modified_gmt": "2017-11-02 21:34:44","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=acf&#038;p=15","menu_order": 0,"post_type": "acf","post_mime_type": "","comment_count": 0}, {"ID": 16,"post_author": 1,"post_date": "2017-11-02 22:28:00","post_date_gmt": "2017-11-02 21:28:00","post_content": "","post_title": "Foto","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "acf_foto","to_ping": "","pinged": "","post_modified": "2017-11-02 22:29:55","post_modified_gmt": "2017-11-02 21:29:55","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=acf&#038;p=16","menu_order": 0,"post_type": "acf","post_mime_type": "","comment_count": 0}, {"ID": 17,"post_author": 1,"post_date": "2017-11-02 22:37:17","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Home","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 22:37:17","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=17","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 18,"post_author": 1,"post_date": "2017-11-02 22:37:17","post_date_gmt": "0000-00-00 00:00:00","post_content": " ","post_title": "","post_excerpt": "","post_status": "draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 22:37:17","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=18","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}, {"ID": 19,"post_author": 1,"post_date": "2017-11-02 22:44:18","post_date_gmt": "2017-11-02 21:44:18","post_content": "{
+    \"blankslate::nav_menu_locations[main-menu]\": {
+        \"value\": -2504840464967414000,
+        \"type\": \"theme_mod\",
+        \"user_id\": 1
+    },
+    \"nav_menu[-2504840464967414000]\": {
+        \"value\": {
+            \"name\": \"Topnav\",
+            \"description\": \"\",
+            \"parent\": 0,
+            \"auto_add\": false
+        },
+        \"type\": \"nav_menu\",
+        \"user_id\": 1
+    },
+    \"nav_menu_item[-8580772248738124000]\": {
+        \"value\": {
+            \"object_id\": 0,
+            \"object\": \"custom\",
+            \"menu_item_parent\": 0,
+            \"position\": 1,
+            \"type\": \"custom\",
+            \"title\": \"Observationer\",
+            \"url\": \"http://prfrankild.dk/sem3/?post_type=observationer\",
+            \"target\": \"\",
+            \"attr_title\": \"\",
+            \"description\": \"\",
+            \"classes\": \"\",
+            \"xfn\": \"\",
+            \"status\": \"publish\",
+            \"original_title\": \"Observationer\",
+            \"nav_menu_term_id\": -2504840464967414000,
+            \"_invalid\": false,
+            \"type_label\": \"Custom Link\"
+        },
+        \"type\": \"nav_menu_item\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "5526c3be-26aa-4072-9d51-a2b852e3d93f","to_ping": "","pinged": "","post_modified": "2017-11-02 22:44:18","post_modified_gmt": "2017-11-02 21:44:18","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=19","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 21,"post_author": 2,"post_date": "2017-11-02 22:46:51","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Auto Draft","post_excerpt": "","post_status": "auto-draft","comment_status": "open","ping_status": "open","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 22:46:51","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=21","menu_order": 0,"post_type": "post","post_mime_type": "","comment_count": 0}, {"ID": 22,"post_author": 2,"post_date": "2017-11-02 22:48:42","post_date_gmt": "2017-11-02 21:48:42","post_content": "","post_title": "En fugl og fisk","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "en-fugl-og-fisk","to_ping": "","pinged": "","post_modified": "2017-11-02 22:48:42","post_modified_gmt": "2017-11-02 21:48:42","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=observationer&#038;p=22","menu_order": 0,"post_type": "observationer","post_mime_type": "","comment_count": 0}, {"ID": 24,"post_author": 2,"post_date": "2017-11-02 22:48:14","post_date_gmt": "2017-11-02 21:48:14","post_content": "","post_title": "photo-1425581660111","post_excerpt": "","post_status": "inherit","comment_status": "open","ping_status": "closed","post_password": "","post_name": "photo-1425581660111","to_ping": "","pinged": "","post_modified": "2017-11-02 22:48:14","post_modified_gmt": "2017-11-02 21:48:14","post_content_filtered": "","post_parent": 22,"guid": "http://prfrankild.dk/sem3/wordpress/wp-content/uploads/2017/11/photo-1425581660111.jpeg","menu_order": 0,"post_type": "attachment","post_mime_type": "image/jpeg","comment_count": 0}, {"ID": 25,"post_author": 2,"post_date": "2017-11-02 22:49:03","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Auto Draft","post_excerpt": "","post_status": "auto-draft","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-02 22:49:03","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=dato&p=25","menu_order": 0,"post_type": "dato","post_mime_type": "","comment_count": 0}, {"ID": 26,"post_author": 2,"post_date": "2017-11-02 22:50:09","post_date_gmt": "2017-11-02 21:50:09","post_content": "","post_title": "Anden inlæg om fugl","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "anden-inlaeg-om-fugl","to_ping": "","pinged": "","post_modified": "2017-11-02 22:50:09","post_modified_gmt": "2017-11-02 21:50:09","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?post_type=observationer&#038;p=26","menu_order": 0,"post_type": "observationer","post_mime_type": "","comment_count": 0}, {"ID": 27,"post_author": 2,"post_date": "2017-11-02 22:50:00","post_date_gmt": "2017-11-02 21:50:00","post_content": "","post_title": "photo-1484650425799","post_excerpt": "","post_status": "inherit","comment_status": "open","ping_status": "closed","post_password": "","post_name": "photo-1484650425799","to_ping": "","pinged": "","post_modified": "2017-11-02 22:50:00","post_modified_gmt": "2017-11-02 21:50:00","post_content_filtered": "","post_parent": 26,"guid": "http://prfrankild.dk/sem3/wordpress/wp-content/uploads/2017/11/photo-1484650425799.jpeg","menu_order": 0,"post_type": "attachment","post_mime_type": "image/jpeg","comment_count": 0}, {"ID": 28,"post_author": 1,"post_date": "2017-11-03 00:12:44","post_date_gmt": "2017-11-02 23:12:44","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.widget-container widget_meta{\\ndisplay:hidden:}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "7b583e52-ca71-412f-9cfd-f23d2392f3bc","to_ping": "","pinged": "","post_modified": "2017-11-03 00:12:44","post_modified_gmt": "2017-11-02 23:12:44","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=28","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 29,"post_author": 1,"post_date": "2017-11-03 00:12:44","post_date_gmt": "2017-11-02 23:12:44","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.customize-unpreviewable{
+display:none;}
+#meta-2{
+display:none;}
+.searchform{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "blankslate","to_ping": "","pinged": "","post_modified": "2017-11-03 08:57:11","post_modified_gmt": "2017-11-03 07:57:11","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/blankslate/","menu_order": 0,"post_type": "custom_css","post_mime_type": "","comment_count": 0}, {"ID": 30,"post_author": 1,"post_date": "2017-11-03 00:12:44","post_date_gmt": "2017-11-02 23:12:44","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.widget-container widget_meta{
+display:hidden:}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 00:12:44","post_modified_gmt": "2017-11-02 23:12:44","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 31,"post_author": 1,"post_date": "2017-11-03 00:14:26","post_date_gmt": "2017-11-02 23:14:26","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.widget-container .widget_meta{\\ndisplay:hidden:}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "e98e3dc3-ac24-4a92-9e50-ec937607390b","to_ping": "","pinged": "","post_modified": "2017-11-03 00:14:26","post_modified_gmt": "2017-11-02 23:14:26","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/e98e3dc3-ac24-4a92-9e50-ec937607390b/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 32,"post_author": 1,"post_date": "2017-11-03 00:14:26","post_date_gmt": "2017-11-02 23:14:26","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.widget-container .widget_meta{
+display:hidden:}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 00:14:26","post_modified_gmt": "2017-11-02 23:14:26","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 33,"post_author": 1,"post_date": "2017-11-03 00:16:12","post_date_gmt": "2017-11-02 23:16:12","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.widget-container .widget_meta{\\ndisplay:hidden;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "66ff2603-e1d7-4b2c-a8cf-a07dd1b3172b","to_ping": "","pinged": "","post_modified": "2017-11-03 00:16:12","post_modified_gmt": "2017-11-02 23:16:12","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=33","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 34,"post_author": 1,"post_date": "2017-11-03 00:16:12","post_date_gmt": "2017-11-02 23:16:12","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.widget-container .widget_meta{
+display:hidden;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 00:16:12","post_modified_gmt": "2017-11-02 23:16:12","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 35,"post_author": 1,"post_date": "2017-11-03 00:16:23","post_date_gmt": "2017-11-02 23:16:23","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.widget-container widget_meta{\\ndisplay:hidden;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "5d37b430-13e3-4d57-bcbe-064060537d3d","to_ping": "","pinged": "","post_modified": "2017-11-03 00:16:23","post_modified_gmt": "2017-11-02 23:16:23","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/5d37b430-13e3-4d57-bcbe-064060537d3d/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 36,"post_author": 1,"post_date": "2017-11-03 00:16:23","post_date_gmt": "2017-11-02 23:16:23","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.widget-container widget_meta{
+display:hidden;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 00:16:23","post_modified_gmt": "2017-11-02 23:16:23","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 37,"post_author": 1,"post_date": "2017-11-03 08:21:42","post_date_gmt": "2017-11-03 07:21:42","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.widget-container widget_meta{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "18cfd121-58ca-4a47-9945-1935cb7dcf14","to_ping": "","pinged": "","post_modified": "2017-11-03 08:21:42","post_modified_gmt": "2017-11-03 07:21:42","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/18cfd121-58ca-4a47-9945-1935cb7dcf14/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 38,"post_author": 1,"post_date": "2017-11-03 08:21:42","post_date_gmt": "2017-11-03 07:21:42","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.widget-container widget_meta{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:21:42","post_modified_gmt": "2017-11-03 07:21:42","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 39,"post_author": 1,"post_date": "2017-11-03 08:23:33","post_date_gmt": "2017-11-03 07:23:33","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.titel{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "38426907-8c27-4621-befc-c24b09898a4b","to_ping": "","pinged": "","post_modified": "2017-11-03 08:23:33","post_modified_gmt": "2017-11-03 07:23:33","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/38426907-8c27-4621-befc-c24b09898a4b/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 40,"post_author": 1,"post_date": "2017-11-03 08:23:33","post_date_gmt": "2017-11-03 07:23:33","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.titel{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:23:33","post_modified_gmt": "2017-11-03 07:23:33","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 41,"post_author": 1,"post_date": "2017-11-03 08:23:42","post_date_gmt": "2017-11-03 07:23:42","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\ntitel{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "39794532-b02a-40e2-971d-c4d0cfccc966","to_ping": "","pinged": "","post_modified": "2017-11-03 08:23:42","post_modified_gmt": "2017-11-03 07:23:42","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/39794532-b02a-40e2-971d-c4d0cfccc966/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 42,"post_author": 1,"post_date": "2017-11-03 08:23:42","post_date_gmt": "2017-11-03 07:23:42","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+titel{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:23:42","post_modified_gmt": "2017-11-03 07:23:42","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 43,"post_author": 1,"post_date": "2017-11-03 08:32:26","post_date_gmt": "2017-11-03 07:32:26","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.customize-unpreviewable{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "61928cfb-0ce4-4199-9f31-4ccb690f6a13","to_ping": "","pinged": "","post_modified": "2017-11-03 08:32:26","post_modified_gmt": "2017-11-03 07:32:26","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=43","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 44,"post_author": 1,"post_date": "2017-11-03 08:32:26","post_date_gmt": "2017-11-03 07:32:26","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.customize-unpreviewable{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:32:26","post_modified_gmt": "2017-11-03 07:32:26","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 45,"post_author": 1,"post_date": "2017-11-03 08:39:32","post_date_gmt": "2017-11-03 07:39:32","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.customize-unpreviewable{\\ndisplay:none;}\\n#customize-unpreviewable{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "0f4a9032-b8fa-4c9c-ad84-9482f964ebdd","to_ping": "","pinged": "","post_modified": "2017-11-03 08:39:32","post_modified_gmt": "2017-11-03 07:39:32","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=45","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 46,"post_author": 1,"post_date": "2017-11-03 08:39:32","post_date_gmt": "2017-11-03 07:39:32","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.customize-unpreviewable{
+display:none;}
+#customize-unpreviewable{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:39:32","post_modified_gmt": "2017-11-03 07:39:32","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 47,"post_author": 1,"post_date": "2017-11-03 08:39:53","post_date_gmt": "2017-11-03 07:39:53","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.customize-unpreviewable{\\ndisplay:none;}\\n#meta-2{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "b183fbc5-9844-4978-ab06-7c8fcb4c46b6","to_ping": "","pinged": "","post_modified": "2017-11-03 08:39:53","post_modified_gmt": "2017-11-03 07:39:53","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/b183fbc5-9844-4978-ab06-7c8fcb4c46b6/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 48,"post_author": 1,"post_date": "2017-11-03 08:39:53","post_date_gmt": "2017-11-03 07:39:53","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.customize-unpreviewable{
+display:none;}
+#meta-2{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:39:53","post_modified_gmt": "2017-11-03 07:39:53","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 49,"post_author": 1,"post_date": "2017-11-03 08:57:11","post_date_gmt": "2017-11-03 07:57:11","post_content": "{
+    \"custom_css[blankslate]\": {
+        \"value\": \"/*\\nYou can add your own CSS here.\\n\\nClick the help icon above to learn more.\\n*/\\n.customize-unpreviewable{\\ndisplay:none;}\\n#meta-2{\\ndisplay:none;}\\n.searchform{\\ndisplay:none;}\",
+        \"type\": \"custom_css\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "65d16388-77af-4251-918f-2538caf1289d","to_ping": "","pinged": "","post_modified": "2017-11-03 08:57:11","post_modified_gmt": "2017-11-03 07:57:11","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/65d16388-77af-4251-918f-2538caf1289d/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 50,"post_author": 1,"post_date": "2017-11-03 08:57:11","post_date_gmt": "2017-11-03 07:57:11","post_content": "/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.customize-unpreviewable{
+display:none;}
+#meta-2{
+display:none;}
+.searchform{
+display:none;}","post_title": "blankslate","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "29-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-03 08:57:11","post_modified_gmt": "2017-11-03 07:57:11","post_content_filtered": "","post_parent": 29,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/03/29-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 51,"post_author": 1,"post_date": "2017-11-07 12:11:07","post_date_gmt": "2017-11-07 11:11:07","post_content": "{
+    \"nav_menu_item[20]\": {
+        \"value\": {
+            \"menu_item_parent\": 0,
+            \"object_id\": 20,
+            \"object\": \"custom\",
+            \"type\": \"custom\",
+            \"type_label\": \"Custom Link\",
+            \"title\": \"Observationer\",
+            \"url\": \"http://prfrankild.dk/sem3/wordpress/?post_type=observationer\",
+            \"target\": \"\",
+            \"attr_title\": \"\",
+            \"description\": \"\",
+            \"classes\": \"\",
+            \"xfn\": \"\",
+            \"nav_menu_term_id\": 3,
+            \"position\": 1,
+            \"status\": \"publish\",
+            \"original_title\": \"\",
+            \"_invalid\": false
+        },
+        \"type\": \"nav_menu_item\",
+        \"user_id\": 1
+    }
+}","post_title": "","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "b18fe5bd-8f40-4799-8f8f-4f3b683261a3","to_ping": "","pinged": "","post_modified": "2017-11-07 12:11:07","post_modified_gmt": "2017-11-07 11:11:07","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/07/b18fe5bd-8f40-4799-8f8f-4f3b683261a3/","menu_order": 0,"post_type": "customize_changeset","post_mime_type": "","comment_count": 0}, {"ID": 52,"post_author": 1,"post_date": "2017-11-08 10:55:57","post_date_gmt": "0000-00-00 00:00:00","post_content": "","post_title": "Auto Draft","post_excerpt": "","post_status": "auto-draft","comment_status": "open","ping_status": "open","post_password": "","post_name": "","to_ping": "","pinged": "","post_modified": "2017-11-08 10:55:57","post_modified_gmt": "0000-00-00 00:00:00","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=52","menu_order": 0,"post_type": "post","post_mime_type": "","comment_count": 0}, {"ID": 55,"post_author": 1,"post_date": "2017-11-08 15:03:06","post_date_gmt": "2017-11-08 14:03:06","post_content": "","post_title": "Observationer","post_excerpt": "","post_status": "trash","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "__trashed","to_ping": "","pinged": "","post_modified": "2017-11-08 15:03:29","post_modified_gmt": "2017-11-08 14:03:29","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?page_id=55","menu_order": 0,"post_type": "page","post_mime_type": "","comment_count": 0}, {"ID": 56,"post_author": 1,"post_date": "2017-11-08 15:03:29","post_date_gmt": "2017-11-08 14:03:29","post_content": "","post_title": "Observationer","post_excerpt": "","post_status": "inherit","comment_status": "closed","ping_status": "closed","post_password": "","post_name": "55-revision-v1","to_ping": "","pinged": "","post_modified": "2017-11-08 15:03:29","post_modified_gmt": "2017-11-08 14:03:29","post_content_filtered": "","post_parent": 55,"guid": "http://prfrankild.dk/sem3/wordpress/2017/11/08/55-revision-v1/","menu_order": 0,"post_type": "revision","post_mime_type": "","comment_count": 0}, {"ID": 57,"post_author": 1,"post_date": "2017-11-08 15:06:55","post_date_gmt": "2017-11-08 14:06:55","post_content": " ","post_title": "","post_excerpt": "","post_status": "publish","comment_status": "closed","ping_status": "closed","post_password": "","post_name": 57,"to_ping": "","pinged": "","post_modified": "2017-11-08 15:06:55","post_modified_gmt": "2017-11-08 14:06:55","post_content_filtered": "","post_parent": 0,"guid": "http://prfrankild.dk/sem3/wordpress/?p=57","menu_order": 1,"post_type": "nav_menu_item","post_mime_type": "","comment_count": 0}]
